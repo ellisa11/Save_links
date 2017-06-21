@@ -31,8 +31,8 @@ class Save():
                 #result=self.httppost(linkurl)
 
                 #post start
-                host = 'note.youdao.com'
-                url = 'http://note.youdao.com/yws/open/memory?method=put'
+                host = '**.**dao.com'
+                url = 'http://**.**dao.com/yws/open/memory?method=put'
 
                 post_data = {'text': linkurl}
 
